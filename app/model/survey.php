@@ -71,4 +71,4 @@
 <script src="/assets/js/jquery.min.js"></script>
 <script src="/assets/js/bootstrap.min.js"></script>
 <script src="/assets/js/bootstrap-input-spinner.js"></script>
-<script src="/assets/js/survey-functions.js"></script>
+<script src="/app/js/survey-functions.js"></script>

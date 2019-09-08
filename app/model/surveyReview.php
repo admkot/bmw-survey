@@ -40,4 +40,4 @@
 <script src="/assets/js/bootstrap-input-spinner.js"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
-<script src="/assets/js/surveyReview-functions.js"></script>
+<script src="/app/js/surveyReview-functions.js"></script>

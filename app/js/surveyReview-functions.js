@@ -59,7 +59,7 @@ $( document ).ready(function() {
 
 
 
-  //Staf requirements Display
+  //Staff requirements Display
   var html = '<li>How many under 18s participated? - <b>'+adolescents+ ' ('+adolescentsPercentage+'%)'+'</b></li>';
   html = html + '<li>How many unlicensed drivers participated? - <b>'+unlicensed+ ' ('+unlicensedPercentage+'%)'+'</b></li>';
   html = html + '<li>How many 18-25s first car owners participated? - <b>'+firstTimers+ ' ('+firstTimersPercentage+'%)'+'</b></li>';
@@ -73,7 +73,7 @@ $( document ).ready(function() {
 
 
 
-  //chart for group
+  //chart for group 
   var labels = ["Adolescents", "Unlicensed", "First-timers", "Targetables"];
   var data = [adolescents, unlicensed, firstTimers, targetables];
   var colors = ["#ff6384", "#36a2eb", "#cc65fe", "#ffce56"];
