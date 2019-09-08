@@ -1,6 +1,6 @@
 <form class="form-signin  animate-box fadeIn animated">
   <div class="text-center mb-4 ">
-    <img class="mb-4" src="/assets/images/bmw-logo.png" alt="" width="72" height="72">
+    <img class="mb-4" src="/assets/images/bmwlogo.png" alt="" width="72" height="72">
     <h1 class="h3 mb-3 font-weight-normal">BMW Survey</h1>
   </div>
 

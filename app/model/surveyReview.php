@@ -3,14 +3,14 @@
 	<div class="row">
 		<div class="col-sm">
 			<div class=" mb-4 text-center justify-content-center animate-box fadeIn animated">
-					<img class="mb-4" src="/assets/images/bmw-logo.png" alt="" width="72" height="72">
+					<img class="mb-4" src="/assets/images/bmwlogo.png" alt="" width="72" height="72">
 					<h1 class="h3 mb-3 font-weight-normal">Survey Review</h1>
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<ul id="staff-requirements">
-		
+
 		</ul>
 	</div>
   <div class="row">
